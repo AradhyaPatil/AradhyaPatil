@@ -1,19 +1,9 @@
 # 👋 Hey there! I'm Aradhya Patil 
 
-Welcome to my GitHub! 🚀 I'm a **passionate AI/ML enthusiast, developer, and tech leader** who loves exploring **cutting-edge technologies** and building innovative projects.  
+Welcome to my GitHub! 🚀 I'm a **passionate AI/ML enthusiast and full stack developer** who loves exploring **cutting-edge technologies** and building innovative projects.  
 
 ## 💡 About Me  
-🔹 **Co-Head of AI/ML Domain at Vidyalankar Polytechnic**
-
-🔹 **Passionate about AI, Machine Learning, and Full-Stack Development (MERN Stack)**  
-
-🔹 Constantly learning & experimenting with **AI, Web Development, and Blockchain**  
-
-## 🔥 What You'll Find Here  
-📌 **AI & ML Projects** – AI-powered applications, Machine Learning models, and research.  
-📌 **MERN Stack Projects** – Full-stack web apps, API integrations, and real-world applications.  
-📌 **Tech Event Resources** – Event reports, presentations, and documentation from my workshops.  
-📌 **Fun & Experimental Builds** – Exploring AI-powered tools, blockchain applications, and automation.  
+I am a professional Full-Stack Developer with expertise in building scalable, user-focused web applications. I have a strong interest in integrating AI into projects, enabling intelligent and efficient solutions. With a focus on clean code, adaptability, and innovation, I aim to deliver high-quality applications that create real value. I am enthusiastic about problem-solving and leading my team, while continuously learning in dynamic environments. 
 
 ## 🚀 Skills & Technologies  
 💻 **Languages:** HTML5, CSS3, JavaScript, Typescript, Python, Dart, SQL, Java, C, C++ 
