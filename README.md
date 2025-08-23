@@ -16,10 +16,9 @@ Welcome to my GitHub! 🚀 I'm a **passionate AI/ML enthusiast, developer, and t
 📌 **Fun & Experimental Builds** – Exploring AI-powered tools, blockchain applications, and automation.  
 
 ## 🚀 Skills & Technologies  
-💻 **Languages:** Python, Java, Advanced Java, C, C++  
-🧠 **AI/ML:** TensorFlow, LangChain, OpenAI API, Gemini API  
-🌐 **Web Dev:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
-📡 **Other Tools:** GitHub, Docker, Firebase, LangFlow  
+💻 **Languages:** HTML5, CSS3, JavaScript, Typescript, Python, Dart, SQL, Java, C, C++ 
+🧠 **Libraries & Frameworks:** React.js, React Native, Next.js, Node.js, Express.js, Vite, MongoDB, Flutter, Tailwind CSS, TensorFlow, PyTorch, Transformers  
+📡 **Other Tools:** Cursor, Git & GitHub, Docker, REST API’s, Firebase, Verlet, Rodin, Langflow,  
 
 ## 📫 Let's Connect!  
 📩 **Email:** patilaradhya2007@gmail.com  
