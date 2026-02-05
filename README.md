@@ -11,6 +11,6 @@ I am a professional Full-Stack Developer with expertise in building scalable, us
 📡 **Other Tools:** Cursor, Git & GitHub, Docker, REST API’s, Firebase, Verlet, Rodin, Langflow,  
 
 ## 📫 Let's Connect!  
-📩 **Email:** patilaradhya2007@gmail.com  
+📩 **Email:** aradhyaspatil22@gmail.com  
 
 📢 **Open to collaborations, tech discussions, and new opportunities!** Feel free to reach out. 🚀  
