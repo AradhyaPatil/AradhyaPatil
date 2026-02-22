@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF; /* Primary background: white */
+    color: #333333; /* Default text color */
+}
+
+header {
+    background-color: #00FF00; /* Vibrant lime green */
+    color: #FFFFFF; /* White text on green background */
+    padding: 1.5rem 0;
+    text-align: center;
+    border-bottom: 3px solid #00CC00; /* Slightly darker green border */
+}
+
+header h1 { /* Assuming the main "Sprite" title is in the header or hero */
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+main {
+    padding: 1.5rem;
+}
+
+section {
+    margin-bottom: 2.5rem;
+    padding: 2rem;
+    background-color: #f9f9f9; /* Light grey for sections, to distinguish from white body */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Responsive images styling */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* To remove extra space below images if they are inline */
+}
+
+/* Specific section styling for visual distinction if needed */
+#hero {
+    background-color: #E6FFE6; /* Very light green, almost white */
+    text-align: center;
+    /* Image-specific styling for hero image might go here */
+}
+
+#flavors {
+    background-color: #FFFFFF; /* White background for contrast */
+    border: 1px solid #DDDDDD;
+    /* Image-specific styling for flavor images might go here */
+}
+
+#promotions {
+    background-color: #F0FFF0; /* Another very light green shade */
+}
+
+#where-to-buy {
+    background-color: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    text-align: center; /* Center the button */
+}
+
+#where-to-buy button {
+    background-color: #00FF00; /* Vibrant lime green */
+    color: #FFFFFF; /* White text */
+    border: none;
+    padding: 0.75rem 1.5rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 25px; /* Rounded corners */
+    cursor: pointer;
+    text-transform: uppercase;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+#where-to-buy button:hover {
+    background-color: #00CC00; /* Slightly darker green on hover */
+    transform: translateY(-2px); /* Slight lift on hover */
+}
+
+#flavors ul {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 0;
+}
+
+#flavors li {
+    margin-bottom: 0.5rem; /* Space between list items */
+    font-size: 1.1rem;
+}
+
+h1, h2 {
+    color: #009900; /* Darker, more readable green for headings */
+}
+
+h1 {
+    font-size: 2.2rem;
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    padding: 1.5rem 0;
+    background-color: #333333; /* Dark grey footer */
+    color: #FFFFFF; /* White text on dark background */
+    border-top: 3px solid #00FF00; /* Lime green top border */
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Media Queries for Responsiveness */
+
+/* For Tablets and larger phones (e.g., max-width: 768px) */
+@media (max-width: 768px) {
+    header h1 { /* Site title in header */
+        font-size: 2rem;
+    }
+
+    h1 { /* General h1 in sections */
+        font-size: 1.8rem;
+    }
+
+    h2 { /* General h2 in sections */
+        font-size: 1.5rem;
+    }
+
+    p, #flavors li {
+        font-size: 1rem;
+    }
+
+    main {
+        padding: 1rem;
+    }
+
+    section {
+        padding: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    /* Adjust flex container for flavor images if needed, though flex-wrap should handle it */
+    #flavors div {
+        flex-direction: column; /* Stack images vertically */
+        align-items: center;
+    }
+
+    #flavors div img {
+        margin-bottom: 1rem; /* Add some space between stacked images */
+    }
+
+    #where-to-buy button {
+        padding: 0.65rem 1.3rem;
+        font-size: 1rem;
+    }
+}
+
+/* For Mobile Phones (e.g., max-width: 480px) */
+@media (max-width: 480px) {
+    header {
+        padding: 1rem 0;
+    }
+
+    header h1 { /* Site title in header */
+        font-size: 1.6rem;
+    }
+
+    h1 { /* General h1 in sections */
+        font-size: 1.5rem;
+    }
+
+    h2 { /* General h2 in sections */
+        font-size: 1.3rem;
+    }
+
+    p, #flavors li {
+        font-size: 0.95rem;
+    }
+
+    main {
+        padding: 0.5rem;
+    }
+
+    section {
+        padding: 1rem;
+        margin-bottom: 1.5rem;
+    }
+    
+    /* Hero image placeholder might be too large, adjust its size */
+    #hero img {
+        max-width: 90%; /* Or a specific pixel value like 300px if preferred */
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #where-to-buy button {
+        padding: 0.6rem 1rem;
+        font-size: 0.9rem;
+        width: 80%; /* Make button wider for easier tapping */
+        max-width: 300px;
+    }
+
+    footer {
+        padding: 1rem 0;
+    }
+}
