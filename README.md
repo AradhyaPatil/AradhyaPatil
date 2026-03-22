@@ -56,9 +56,22 @@ I’m a Full Stack Developer focused on building scalable, user-centric applicat
 ---
 
 ## 📈 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=AradhyaPatil&color=blue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaPatil&layout=compact&theme=tokyonight) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AradhyaPatil&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AradhyaPatil&theme=tokyo-night)
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AradhyaPatil&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaPatil&layout=compact&theme=tokyonight" />
+
+<br/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AradhyaPatil&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AradhyaPatil&theme=tokyo-night&hide_border=true" />
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
