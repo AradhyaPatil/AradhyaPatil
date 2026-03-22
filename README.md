@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems" />
 
-🚀 **Full Stack Developer**
-
 ---
 
 ## 💡 About Me
