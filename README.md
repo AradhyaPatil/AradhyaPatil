@@ -60,19 +60,9 @@ I’m a Full Stack Developer focused on building scalable, user-centric applicat
 ---
 
 ## 📈 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaPatil&layout=compact&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AradhyaPatil&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AradhyaPatil&theme=tokyo-night)
-
----
-
-## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AradhyaPatil&color=blue)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaPatil&layout=compact&theme=tokyonight) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AradhyaPatil&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AradhyaPatil&theme=tokyo-night)
 ---
 
 ## 📫 Connect
