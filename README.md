@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aradhya Patil  
+# 👋 Hi, I'm Aradhya Patil  ![Profile Views](https://komarev.com/ghpvc/?username=AradhyaPatil&color=0e75b6&style=flat)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems" />
 
