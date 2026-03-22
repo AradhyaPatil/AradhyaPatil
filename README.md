@@ -61,6 +61,11 @@ I’m a Full Stack Developer focused on building scalable, user-centric applicat
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AradhyaPatil&theme=tokyo-night)
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/AradhyaPatil/AradhyaPatil/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📫 Connect
 📩 **Email:** aradhyaspatil22@gmail.com  
 💬 Open to collaborations, internships, and opportunities  
