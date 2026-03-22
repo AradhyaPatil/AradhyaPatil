@@ -61,6 +61,7 @@ I’m a Full Stack Developer focused on building scalable, user-centric applicat
 ## 📈 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=AradhyaPatil&show_icons=true&theme=tokyonight)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaPatil&layout=compact&theme=tokyonight)
 
+![snake gif](https://github.com/AradhyaPatil/AradhyaPatil/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
