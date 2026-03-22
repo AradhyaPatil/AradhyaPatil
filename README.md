@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Aradhya Patil  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems" />
----
+# 👋 Hi, I'm Aradhya Patil  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full+Stack+Developer;Building+Intelligent+Systems" />
 
 ## 💡 About Me
 I’m a Full Stack Developer focused on building scalable, user-centric applications and integrating AI to create intelligent, real-world solutions. I enjoy solving complex problems, writing clean code, and continuously learning new technologies.
