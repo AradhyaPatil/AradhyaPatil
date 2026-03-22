@@ -59,11 +59,7 @@ I’m a Full Stack Developer focused on building scalable, user-centric applicat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaPatil&layout=compact&theme=tokyonight" />
-
-<br/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AradhyaPatil&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaPatil&layout=compact&theme=tokyonight" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AradhyaPatil&theme=tokyonight" />
 
 <br/>
 
