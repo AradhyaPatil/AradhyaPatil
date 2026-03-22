@@ -71,8 +71,11 @@ I’m a Full Stack Developer focused on building scalable, user-centric applicat
 
 ---
 
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=AradhyaPatil&theme=tokyonight)
+## 🏆 Achievements## 🏆 Achievements
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AradhyaPatil&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AradhyaPatil&theme=tokyonight)
 
 ---
 
@@ -85,7 +88,3 @@ I’m a Full Stack Developer focused on building scalable, user-centric applicat
 📩 **Email:** aradhyaspatil22@gmail.com  
 💬 Open to collaborations, internships, and opportunities  
 
----
-
-## ⚡ Fun Fact
-> I don’t just build applications — I build intelligent systems 🚀
