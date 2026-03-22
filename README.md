@@ -61,21 +61,12 @@ I’m a Full Stack Developer focused on building scalable, user-centric applicat
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AradhyaPatil&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaPatil&layout=compact&theme=tokyonight)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AradhyaPatil&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AradhyaPatil&theme=tokyo-night)
-
----
-
-## 🏆 Achievements## 🏆 Achievements
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AradhyaPatil&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AradhyaPatil&theme=tokyonight)
 
 ---
 
